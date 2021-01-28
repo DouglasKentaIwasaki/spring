@@ -1,0 +1,6 @@
+Jpa
+Boot
+Postgreedriver
+Validation
+Devtools
+Processor
